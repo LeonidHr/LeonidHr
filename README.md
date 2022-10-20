@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Leonid, I'm 15 y.o. <br>My stack: html, CSS, SCSS, JavaScript, <br>PHP for stretching layout on WordPress<br>My Telegram account: @Lim0nid
+My name is Leonid, I'm 16 y.o. <br>My stack: html, CSS, SCSS, JavaScript, <br>PHP for stretching layout on WordPress<br>My Telegram account: @Lim0nid
 
 
 ## 🌐 Socials:
