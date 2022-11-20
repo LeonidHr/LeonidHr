@@ -8,7 +8,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a target="blank" href="htttps://discord.gg/#6476">
+  <a target="blank" href="https://discord.gg/#6476">
     <img src="https://img.shields.io/badge/Discord-blueviolet?style=for-the-badge&logo=discord&logoColor=white" alt="discord"/>
   </a>
   <a target="blank" href="https://t.me/Lim0nid">
@@ -41,6 +41,14 @@
 ![](https://github-readme-stats.vercel.app/api?username=LeonidHr&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonidHr&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+| Description  | Project |
+| ------------- | ------------- |
+| npt <br/> demo: https://leonidhr.github.io/npt/ <br/> repository: https://github.com/LeonidHr/npt | ![alt text](https://github.com/LeonidHr/npt/blob/result/img/preview.gif "npt") |
+| Dilong <br/> demo: https://leonidhr.github.io/dilong/ <br/> repository: https://github.com/LeonidHr/dilong | ![alt text](https://github.com/LeonidHr/dilong/blob/main/src/img/preview.gif "Dilong") |
+| Farm West <br/> demo: https://leonidhr.github.io/farm-west/ <br/> repository: https://github.com/LeonidHr/farm-west | ![alt text](https://github.com/LeonidHr/farm-west/blob/master/src/img/preview.gif "Farm West") |
+| Product fit <br/> demo: https://leonidhr.github.io/product-fit/ <br/> repository: https://github.com/LeonidHr/product-fit| ![alt text](https://github.com/LeonidHr/product-fit/blob/master/src/img/preview.gif "Farm West") |
+| ReadyOn <br/> demo: https://leonidhr.github.io/readyOn/ <br/> repository: https://github.com/LeonidHr/readyOn| ![alt text](https://github.com/LeonidHr/readyOn/blob/master/src/img/preview.gif "ReadyOn") |
+| Furino <br/> demo: https://leonidhr.github.io/furino/ <br/> repository: https://github.com/LeonidHr/furino| ![alt text](https://github.com/LeonidHr/furino/blob/master/src/img/preview.gif "Furino") |
 
 ---
 [![](https://visitcount.itsvg.in/api?id=LeonidHr&icon=5&color=10)](https://visitcount.itsvg.in)
