@@ -43,6 +43,7 @@
 
 | Description  | Project |
 | ------------- | ------------- |
+| Banjaxed <br/> demo: https://leonidhr.github.io/banjaxed/ <br/> repository: https://github.com/LeonidHr/banjaxed | ![alt text](https://github.com/LeonidHr/banjaxed/blob/result/img/preview.gif "banjaxed") |
 | npt <br/> demo: https://leonidhr.github.io/npt/ <br/> repository: https://github.com/LeonidHr/npt | ![alt text](https://github.com/LeonidHr/npt/blob/result/img/preview.gif "npt") |
 | Dilong <br/> demo: https://leonidhr.github.io/dilong/ <br/> repository: https://github.com/LeonidHr/dilong | ![alt text](https://github.com/LeonidHr/dilong/blob/main/src/img/preview.gif "Dilong") |
 | Farm West <br/> demo: https://leonidhr.github.io/farm-west/ <br/> repository: https://github.com/LeonidHr/farm-west | ![alt text](https://github.com/LeonidHr/farm-west/blob/master/src/img/preview.gif "Farm West") |
