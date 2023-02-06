@@ -44,7 +44,8 @@
 
 | Description  | Project |
 | ------------- | ------------- |
-| ToGoTop <br/> demo: https://leonidhr.github.io/gymnasiumVK/ <br/> repository: https://github.com/LeonidHr/gymnasiumVK | ![alt text](https://github.com/LeonidHr/gymnasiumVK/blob/result/img/preview.gif "gymnasiumVK") |
+| Flowers <br/> demo: https://leonidhr.github.io/flowers/ <br/> repository: https://github.com/LeonidHr/flowers | ![alt text](https://github.com/LeonidHr/flowers/blob/preview/img/preview.gif "flowers") |
+| gymnasiumVK <br/> demo: https://leonidhr.github.io/gymnasiumVK/ <br/> repository: https://github.com/LeonidHr/gymnasiumVK | ![alt text](https://github.com/LeonidHr/gymnasiumVK/blob/result/img/preview.gif "gymnasiumVK") |
 | ToGoTop <br/> demo: https://leonidhr.github.io/togotop/ <br/> repository: https://github.com/LeonidHr/togotop | ![alt text](https://github.com/LeonidHr/togotop/blob/preview/img/preview.gif "togotop") |
 | Banjaxed <br/> demo: https://leonidhr.github.io/banjaxed/ <br/> repository: https://github.com/LeonidHr/banjaxed | ![alt text](https://github.com/LeonidHr/banjaxed/blob/result/img/giphy.gif "banjaxed") |
 | npt <br/> demo: https://leonidhr.github.io/npt/ <br/> repository: https://github.com/LeonidHr/npt | ![alt text](https://github.com/LeonidHr/npt/blob/result/img/preview.gif "npt") |
