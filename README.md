@@ -44,12 +44,11 @@
 
 | Description  | Project |
 | ------------- | ------------- |
-| Flowers <br/> demo: https://leonidhr.github.io/flowers/ <br/> repository: https://github.com/LeonidHr/flowers | ![alt text](https://github.com/LeonidHr/flowers/blob/preview/img/preview.gif "flowers") |
+| Flowers <br/> demo: https://leonidhr.github.io/ProConsult/home.html/ <br/> repository: https://github.com/LeonidHr/ProConsult | ![alt text](https://github.com/LeonidHr/ProConsult/raw/preview/img/preview.gif "ProConsult") |
 | gymnasiumVK <br/> demo: https://leonidhr.github.io/gymnasiumVK/ <br/> repository: https://github.com/LeonidHr/gymnasiumVK | ![alt text](https://github.com/LeonidHr/gymnasiumVK/blob/result/img/preview.gif "gymnasiumVK") |
 | ToGoTop <br/> demo: https://leonidhr.github.io/togotop/ <br/> repository: https://github.com/LeonidHr/togotop | ![alt text](https://github.com/LeonidHr/togotop/blob/preview/img/preview.gif "togotop") |
 | Banjaxed <br/> demo: https://leonidhr.github.io/banjaxed/ <br/> repository: https://github.com/LeonidHr/banjaxed | ![alt text](https://github.com/LeonidHr/banjaxed/blob/result/img/giphy.gif "banjaxed") |
 | npt <br/> demo: https://leonidhr.github.io/npt/ <br/> repository: https://github.com/LeonidHr/npt | ![alt text](https://github.com/LeonidHr/npt/blob/result/img/preview.gif "npt") |
-| Dilong <br/> demo: https://leonidhr.github.io/dilong/ <br/> repository: https://github.com/LeonidHr/dilong | ![alt text](https://github.com/LeonidHr/dilong/blob/main/src/img/preview.gif "Dilong") |
 | Farm West <br/> demo: https://leonidhr.github.io/farm-west/ <br/> repository: https://github.com/LeonidHr/farm-west | ![alt text](https://github.com/LeonidHr/farm-west/blob/master/src/img/preview.gif "Farm West") |
 | Product fit <br/> demo: https://leonidhr.github.io/product-fit/ <br/> repository: https://github.com/LeonidHr/product-fit| ![alt text](https://github.com/LeonidHr/product-fit/blob/master/src/img/preview.gif "Farm West") |
 | ReadyOn <br/> demo: https://leonidhr.github.io/readyOn/ <br/> repository: https://github.com/LeonidHr/readyOn| ![alt text](https://github.com/LeonidHr/readyOn/blob/master/src/img/preview.gif "ReadyOn") |
